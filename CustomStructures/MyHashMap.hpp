@@ -4,7 +4,7 @@
 #include <iostream>
 #include <string>
 #include <stdexcept>  // Для обработки ошибок
-#include "MyList.hpp"  // Подключаем ваш MyList
+#include "MyList.hpp"
 
 // Структура для хранения значения
 template <typename TK, typename TV>
